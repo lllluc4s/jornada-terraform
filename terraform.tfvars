@@ -1,3 +1,3 @@
-do_token     = "dop_v1_db2bb075b6206e1cc8924878ad31bed590b7f0c435ae2dd1174a595a22050acf"
+do_token     = "dop_v1_4eeea88d251a1559539e4455e59a77e0458d2af9efdfacef6b6286b464631689"
 ssh_key_name = "terraform"
 region       = "nyc1"
